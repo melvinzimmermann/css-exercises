@@ -1,1 +1,21 @@
 /* Add CSS Styling */
+
+p {
+    background-color: rgb(243, 172, 172);
+    font-family: Arial;
+}
+
+.red.three {
+    font-size: 40px;
+    font-weight: 700;
+}
+
+#blue {
+    color: blue;
+    font-weight: 700;
+}
+
+#four {
+    background-color: rgb(99, 229, 99);
+    font-size: 40px;
+}
